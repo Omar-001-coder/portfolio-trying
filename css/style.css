@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    color: rgb(51, 46, 51);
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+img{
+    border-radius: 70%;
+    padding: 1rem;
+}
